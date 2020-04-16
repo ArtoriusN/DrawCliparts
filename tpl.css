@@ -1,0 +1,25 @@
+#tools-imagecontrol canvas {
+	border: 1px solid #999;
+}
+#tools-imagecontrol pre {
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+}
+#tools-imagecontrol .w50 {
+	width:75px;
+}
+#tools-imagecontrol #canvasarea {
+	position: relative;
+	max-width: 400px;
+	min-width: 320px;
+	margin: 0 auto;
+}
+
+#tools-imagecontrol #c {
+	width: 100%;
+	height: auto;
+	z-index: 0;
+}
